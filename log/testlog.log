@@ -1,0 +1,1729 @@
+2024-06-30 15:04:03,744 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 17:32:25,420 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 17:32:25,428 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 17:37:22,094 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 17:37:22,110 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 17:45:07,839 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 17:45:07,847 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 17:45:07,858 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: abcd.android.staging.activi..., appPackage: abcd.android.staging, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: R5CT71WCZSX, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 12}
+2024-11-12 20:08:00,151 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:08:00,159 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:08:00,173 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:10:08,323 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:10:08,332 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:10:08,346 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:11:47,565 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:11:47,575 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:11:47,591 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:13:53,786 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:13:53,794 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:13:53,806 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:15:16,400 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:15:16,407 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:15:16,419 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:23:04,979 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:23:04,986 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:23:05,003 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:27:07,221 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:27:07,230 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:27:07,246 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:28:37,364 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:28:37,376 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:28:37,406 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:31:43,128 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:31:43,136 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:31:43,154 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:37:48,952 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:37:48,969 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:37:49,002 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:42:30,291 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:42:30,298 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:42:30,312 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:43:45,824 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:43:45,832 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:43:45,844 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 20:45:56,674 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 20:45:56,685 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 20:45:56,700 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:11:30,166 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:11:30,175 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:11:30,193 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:13:22,774 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:13:22,782 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:13:22,794 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:18:07,325 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:18:07,333 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:18:07,345 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:18:25,517 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 21:27:26,802 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:27:26,809 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:27:26,823 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:27:42,793 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 21:28:31,011 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:28:31,026 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:28:31,049 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:28:51,251 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 21:37:10,367 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:37:10,373 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:37:10,385 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:37:26,006 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 21:38:55,185 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:38:55,192 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:38:55,202 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:39:08,272 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 21:40:02,129 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:40:02,136 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:40:02,148 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:40:12,687 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 21:42:50,518 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:42:50,526 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:42:50,537 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:43:02,745 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 21:45:32,068 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:45:32,076 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:45:32,088 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:45:44,572 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 21:56:10,577 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 21:56:10,586 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 21:56:10,602 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 21:56:27,118 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 22:50:25,049 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 22:50:25,065 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 22:50:59,739 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 22:50:59,746 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 22:50:59,747 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 22:51:20,995 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-12 22:52:03,742 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 22:52:03,759 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 22:53:46,502 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 22:53:46,538 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 22:55:45,685 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 22:55:45,703 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 23:13:49,127 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 23:13:49,134 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 23:13:49,145 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 23:15:12,290 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 23:15:12,302 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 23:15:12,320 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 23:49:53,897 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 23:49:53,904 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 23:49:53,916 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 23:51:04,210 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 23:51:04,218 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 23:51:04,230 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 23:53:54,177 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 23:53:54,186 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 23:53:54,199 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-12 23:57:58,897 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-12 23:57:58,924 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-12 23:57:58,977 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 00:00:48,498 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 00:00:48,529 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 00:00:48,551 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 00:02:20,569 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 00:02:20,582 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 00:02:20,603 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 00:02:36,543 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 00:03:42,536 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 00:03:42,547 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 00:03:42,564 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 00:04:01,948 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 00:06:42,779 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 00:06:42,811 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 00:06:42,837 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 00:07:02,829 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 00:07:53,540 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 00:07:53,555 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 00:07:53,572 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 00:08:09,202 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 00:14:27,162 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 00:14:27,173 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 00:14:27,193 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 00:14:41,812 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 00:23:47,416 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 00:23:47,423 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 00:23:47,435 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 00:24:02,360 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 01:32:24,997 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 01:32:25,007 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 01:32:25,019 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 01:32:46,705 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 01:38:35,564 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 01:38:35,572 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 01:38:35,585 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 01:38:48,065 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 01:39:17,991 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 01:39:17,999 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 01:39:18,013 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 01:39:32,017 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 01:46:38,430 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 01:46:38,438 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 01:46:38,451 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 01:46:55,106 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 01:57:47,230 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 01:57:47,245 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 01:57:47,260 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 01:58:01,152 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 01:59:16,104 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 01:59:16,112 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 01:59:16,125 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 01:59:29,446 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:00:57,849 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:00:57,857 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:00:57,873 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:01:14,613 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:02:01,317 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:02:01,325 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:02:01,338 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:02:19,313 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:02:34,802 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:08:12,957 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:08:12,964 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:08:12,976 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:08:34,160 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:08:50,112 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:12:24,920 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:12:24,946 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:12:24,970 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:12:47,853 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:12:47,855 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:12:48,447 - org.enggQA.base.BaseTest -INFO - click on search icon successfully
+2024-11-13 02:13:03,565 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:16:44,530 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:16:44,538 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:16:44,552 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:17:04,597 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:17:04,598 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:17:05,451 - org.enggQA.base.BaseTest -INFO - click on search icon successfully
+2024-11-13 02:17:23,313 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:18:00,853 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:18:00,862 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:18:00,875 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:18:18,856 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:18:18,857 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:18:19,724 - org.enggQA.base.BaseTest -INFO - click on search icon successfully
+2024-11-13 02:18:33,943 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:23:03,108 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:23:03,122 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:23:03,142 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: com.google.android.maps.Map..., appPackage: com.google.android.apps.maps, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:23:24,450 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:23:24,451 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:23:25,386 - org.enggQA.base.BaseTest -INFO - click on search icon successfully
+2024-11-13 02:23:47,086 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:34:23,506 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:34:23,513 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:34:23,526 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:34:49,069 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:34:49,070 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:34:56,486 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:35:24,984 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:35:24,994 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:35:25,009 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:35:42,213 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:35:42,214 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:35:48,712 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:43:40,301 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:43:40,312 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:43:40,333 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:43:59,571 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:43:59,572 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:44:11,073 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-13 02:45:48,228 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:45:48,245 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:45:48,259 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:46:09,306 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:46:09,307 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:50:02,388 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-13 02:50:02,397 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-13 02:50:02,408 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-13 02:50:22,178 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-13 02:50:22,179 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-13 02:50:28,918 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 01:20:58,558 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 01:20:58,575 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 01:20:58,641 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 01:21:59,390 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-14 01:21:59,393 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-14 01:22:27,186 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 01:33:08,692 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 01:33:08,704 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 01:33:08,722 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 01:33:37,866 - org.enggQA.testCases.mobile.LoginTestcase -INFO - This test validates CT inbox visibility when it is set on More feature tab
+2024-11-14 01:33:37,869 - org.enggQA.testCases.mobile.LoginTestcase -INFO - MAB-T33300 : This test validates search functionality on homepage
+2024-11-14 04:02:31,550 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:02:31,558 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:02:31,572 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:03:03,508 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:09:55,963 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:09:55,972 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:09:55,997 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:10:27,893 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:10:31,729 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:25:42,539 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:25:42,548 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:25:42,567 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:26:04,326 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:26:11,427 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:26:32,675 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:26:32,685 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:26:32,709 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:26:54,074 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:26:55,639 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:26:56,466 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 04:26:57,312 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:27:17,294 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:28:16,707 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:28:16,718 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:28:16,739 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:28:52,645 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:28:54,066 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:28:54,944 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 04:28:55,862 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:29:18,732 - org.enggQA.base.BaseTest -INFO - Visibility of preview page verify successfully
+2024-11-14 04:29:40,649 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:30:08,676 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:30:08,684 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:30:08,700 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:30:32,474 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:30:33,256 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:30:33,972 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 04:30:34,731 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:30:50,541 - org.enggQA.base.BaseTest -INFO - Visibility of preview page verify successfully
+2024-11-14 04:30:50,822 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:31:15,364 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:31:40,034 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:31:40,044 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:31:40,061 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:32:00,767 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:32:01,336 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:32:02,227 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 04:32:03,015 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:32:18,729 - org.enggQA.base.BaseTest -INFO - Visibility of preview page verify successfully
+2024-11-14 04:32:18,992 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:32:35,259 - org.enggQA.base.BaseTest -INFO - Visibility of meeting page verify successfully
+2024-11-14 04:32:35,791 - org.enggQA.base.BaseTest -INFO - click on CameraSwitch button successfully
+2024-11-14 04:32:50,275 - org.enggQA.base.BaseTest -INFO - click on speaker button successfully
+2024-11-14 04:33:00,504 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:35:42,378 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:35:42,399 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:35:42,428 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:36:17,039 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:36:17,561 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:36:18,204 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 04:36:18,966 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:36:35,335 - org.enggQA.base.BaseTest -INFO - Visibility of preview page verify successfully
+2024-11-14 04:36:35,737 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:36:58,385 - org.enggQA.base.BaseTest -INFO - Visibility of meeting page verify successfully
+2024-11-14 04:36:58,828 - org.enggQA.base.BaseTest -INFO - click on CameraSwitch button successfully
+2024-11-14 04:37:12,298 - org.enggQA.base.BaseTest -INFO - click on mic button successfully
+2024-11-14 04:37:12,945 - org.enggQA.base.BaseTest -INFO - click on video button successfully
+2024-11-14 04:37:14,010 - org.enggQA.base.BaseTest -INFO - click on chat button successfully
+2024-11-14 04:37:24,436 - org.enggQA.base.BaseTest -INFO - click on ChatClose button successfully
+2024-11-14 04:37:25,142 - org.enggQA.base.BaseTest -INFO - click on more button successfully
+2024-11-14 04:37:35,480 - org.enggQA.base.BaseTest -INFO - click on close button successfully
+2024-11-14 04:37:36,143 - org.enggQA.base.BaseTest -INFO - click on exit button successfully
+2024-11-14 04:37:37,278 - org.enggQA.base.BaseTest -INFO - click on MeetingEndConfirmationButton button successfully
+2024-11-14 04:37:38,584 - org.enggQA.base.BaseTest -INFO - click on LeaveSession button successfully
+2024-11-14 04:37:42,119 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:37:45,472 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:40:09,563 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:40:09,574 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:40:09,598 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:40:39,698 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:40:40,713 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:40:41,434 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 04:40:42,269 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:40:50,867 - org.enggQA.base.BaseTest -INFO - Visibility of preview page verify successfully
+2024-11-14 04:40:51,157 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:41:02,244 - org.enggQA.base.BaseTest -INFO - Visibility of meeting page verify successfully
+2024-11-14 04:41:02,595 - org.enggQA.base.BaseTest -INFO - click on CameraSwitch button successfully
+2024-11-14 04:41:10,074 - org.enggQA.base.BaseTest -INFO - click on mic button successfully
+2024-11-14 04:41:11,653 - org.enggQA.base.BaseTest -INFO - click on video button successfully
+2024-11-14 04:41:12,657 - org.enggQA.base.BaseTest -INFO - click on chat button successfully
+2024-11-14 04:41:18,394 - org.enggQA.base.BaseTest -INFO - click on ChatClose button successfully
+2024-11-14 04:41:19,536 - org.enggQA.base.BaseTest -INFO - click on more button successfully
+2024-11-14 04:41:25,026 - org.enggQA.base.BaseTest -INFO - click on close button successfully
+2024-11-14 04:41:27,279 - org.enggQA.base.BaseTest -INFO - click on exit button successfully
+2024-11-14 04:41:30,594 - org.enggQA.base.BaseTest -INFO - click on MeetingEndConfirmationButton button successfully
+2024-11-14 04:41:33,238 - org.enggQA.base.BaseTest -INFO - click on LeaveSession button successfully
+2024-11-14 04:41:39,957 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:41:48,855 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:42:38,472 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:42:38,506 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:42:38,554 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:43:28,208 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:43:30,527 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:43:31,087 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 04:43:33,007 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:43:59,967 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:45:47,295 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:45:47,307 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:45:47,334 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 04:46:25,536 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 04:46:27,132 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 04:46:28,138 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 04:46:29,125 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:46:54,636 - org.enggQA.base.BaseTest -INFO - Visibility of preview page verify successfully
+2024-11-14 04:46:56,050 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 04:48:10,855 - org.enggQA.base.BaseTest -INFO - Visibility of meeting page verify successfully
+2024-11-14 04:48:21,860 - org.enggQA.base.BaseTest -INFO - click on CameraSwitch button successfully
+2024-11-14 04:48:40,131 - org.enggQA.base.BaseTest -INFO - click on mic button successfully
+2024-11-14 04:48:49,599 - org.enggQA.base.BaseTest -INFO - click on video button successfully
+2024-11-14 04:48:51,450 - org.enggQA.base.BaseTest -INFO - click on chat button successfully
+2024-11-14 04:48:57,041 - org.enggQA.base.BaseTest -INFO - click on ChatClose button successfully
+2024-11-14 04:48:58,304 - org.enggQA.base.BaseTest -INFO - click on more button successfully
+2024-11-14 04:49:04,054 - org.enggQA.base.BaseTest -INFO - click on close button successfully
+2024-11-14 04:49:05,609 - org.enggQA.base.BaseTest -INFO - click on exit button successfully
+2024-11-14 04:49:08,670 - org.enggQA.base.BaseTest -INFO - click on MeetingEndConfirmationButton button successfully
+2024-11-14 04:49:12,813 - org.enggQA.base.BaseTest -INFO - click on LeaveSession button successfully
+2024-11-14 04:49:40,315 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:56:02,715 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:56:02,728 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:56:02,749 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: RG6LFEMBOJU4TOIF, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 13}
+2024-11-14 04:56:13,961 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 04:57:18,766 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 04:57:18,775 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 04:57:18,791 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: RG6LFEMBOJU4TOIF, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 13}
+2024-11-14 04:57:28,287 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+2024-11-14 05:09:09,356 - org.enggQA.base.BaseTest -INFO - setUpMobileDriver method active
+2024-11-14 05:09:09,366 - org.enggQA.base.BaseTest -INFO - ----Start logging----
+2024-11-14 05:09:09,390 - org.enggQA.capabilitiesManager.MobileCapManager -INFO - Capabilities: Capabilities {appActivity: live.hms.app2.ui.home.HomeA..., appPackage: live.hms.app2, autoGrantPermissions: true, automationName: UiAutomator2, deviceName: emulator-5554, newCommandTimeout: 60, orientation: PORTRAIT, platformName: Android, platformVersion: 15}
+2024-11-14 05:09:44,080 - org.enggQA.testCases.mobile.MeetingTestcases -INFO - T12345 : This test validates e2e flow of app launch and verify if video is showing up on the app.
+2024-11-14 05:09:45,115 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 05:09:45,962 - org.enggQA.base.BaseTest -INFO - Enter meeting link successfully
+2024-11-14 05:09:46,794 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 05:10:03,492 - org.enggQA.base.BaseTest -INFO - Visibility of preview page verify successfully
+2024-11-14 05:10:03,944 - org.enggQA.base.BaseTest -INFO - click on join now button successfully
+2024-11-14 05:11:19,111 - org.enggQA.base.BaseTest -INFO - Visibility of meeting page verify successfully
+2024-11-14 05:11:30,249 - org.enggQA.base.BaseTest -INFO - click on CameraSwitch button successfully
+2024-11-14 05:11:46,243 - org.enggQA.base.BaseTest -INFO - click on mic button successfully
+2024-11-14 05:11:52,252 - org.enggQA.base.BaseTest -INFO - click on video button successfully
+2024-11-14 05:11:56,445 - org.enggQA.base.BaseTest -INFO - click on chat button successfully
+2024-11-14 05:12:02,009 - org.enggQA.base.BaseTest -INFO - click on ChatClose button successfully
+2024-11-14 05:12:03,612 - org.enggQA.base.BaseTest -INFO - click on more button successfully
+2024-11-14 05:12:09,346 - org.enggQA.base.BaseTest -INFO - click on close button successfully
+2024-11-14 05:12:10,519 - org.enggQA.base.BaseTest -INFO - click on exit button successfully
+2024-11-14 05:12:13,320 - org.enggQA.base.BaseTest -INFO - click on MeetingEndConfirmationButton button successfully
+2024-11-14 05:12:18,220 - org.enggQA.base.BaseTest -INFO - click on LeaveSession button successfully
+2024-11-14 05:12:34,321 - org.enggQA.base.BaseTest -INFO - Visibility of joining page verify successfully
+2024-11-14 05:12:43,890 - freemarker.runtime -ERROR - Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> report.systemInfoMap[info]  [in template "Extent.ftl" at line 193, column 95]
+
+----
+Tip: It's the final [] step that caused this error, not those before it.
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${report.systemInfoMap[info]}  [in template "Extent.ftl" at line 193, column 93]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:131)
+	at freemarker.core.EvalUtil.coerceModelToString(EvalUtil.java:355)
+	at freemarker.core.Expression.evalAndCoerceToString(Expression.java:82)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:41)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visitByHiddingParent(Environment.java:345)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlockInner(IteratorBlock.java:240)
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedBlock(IteratorBlock.java:220)
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:194)
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:572)
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:78)
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:64)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.MixedContent.accept(MixedContent.java:54)
+	at freemarker.core.Environment.visit(Environment.java:324)
+	at freemarker.core.Environment.process(Environment.java:302)
+	at freemarker.template.Template.process(Template.java:325)
+	at com.relevantcodes.extentreports.HTMLReporter.flush(HTMLReporter.java:173)
+	at com.relevantcodes.extentreports.Report.flush(Report.java:468)
+	at com.relevantcodes.extentreports.ExtentReports.flush(ExtentReports.java:900)
+	at org.enggQA.listner.TestListener.onFinish(TestListener.java:71)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:873)
+	at org.testng.TestRunner.afterRun(TestRunner.java:828)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
